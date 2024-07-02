@@ -7,4 +7,4 @@ scripts:{
     "test": "jest"
 }
 ```
-5. 
+5. create a folder tests and inside this create files as per tests [ this step is the good convention ]
